@@ -47,7 +47,7 @@ Before installing and running the Student Management System GUI, you should have
 1. **Python**: Ensure that you have Python 3.x installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 
 2. **PyQt6**: The application is built using PyQt6, so you need to have PyQt6 installed. You can install it using pip:
-   ```bash
+```bash
 pip install PyQt6
 
 3. **MySQL Database**: You should have a MySQL database installed and running on your system. Make sure you have the necessary credentials (username, password) and access privileges to create and manage databases and tables.
