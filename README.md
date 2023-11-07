@@ -57,6 +57,7 @@ pip install PyQt6
 
 6. **IDE or Text Editor**: You can use any Python IDE or text editor of your choice for coding and running the application.
 
+
 ## Installation
 Follow these steps to install and run the Student Management System GUI:
 
